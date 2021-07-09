@@ -1,0 +1,12 @@
+{
+    "name": "lenovo/basket-example",
+    "authors": [
+        {
+            "name": "abdurrahim bulut",
+            "email": "abdurrahim.3078@icloud.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.4"
+    }
+}
